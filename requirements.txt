@@ -1,0 +1,4 @@
+pypdf 
+gradio 
+python-dotenv
+crewai
