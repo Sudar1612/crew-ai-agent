@@ -26,7 +26,7 @@ AZURE_API_BASE=your-azure-endpoint
 AZURE_API_KEY=your-azure-key
 
 # Run
-python main.py
+gradio app.py
 ```
 
 ## Files needed
